@@ -46,7 +46,7 @@ app.get('/', (req, res) => {
       <div class="container">
         <h1>🚀 Tienda Demo - CI/CD Pipeline</h1>
         <div class="info">
-          <p><strong>Versión:</strong> 2.0.0</p>
+          <p><strong>Versión:</strong> 3.0.0</p>
           <p><strong>Pipeline:</strong> Tekton en Kubernetes</p>
           <p><strong>Deploy:</strong> ArgoCD GitOps</p>
           <p><strong>Hostname:</strong> ${os.hostname()}</p>
